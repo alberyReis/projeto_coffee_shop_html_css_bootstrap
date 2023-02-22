@@ -7,7 +7,7 @@ Além disso, o Coffee Shop apresenta informações relevantes sobre o nosso esta
 
 Site:
 
-![]()
+![](https://github.com/alberyReis/projeto_coffee_shop_html_css_bootstrap/blob/main/assets/img/site_coffee_shop.png)
 
 Estamos muito felizes em apresentar o Coffee Shop, um site criado com a técnica e dedicação necessárias para oferecer uma experiência completa e acessível. Aqui, você é nosso convidado(a) de honra, e esperamos que possa desfrutar de tudo o que temos a oferecer. Sinta-se à vontade para compartilhar conosco suas opiniões e sugestões, pois acreditamos que a interação com nossos clientes é fundamental para o sucesso de nossa marca.
 
